@@ -1,4 +1,4 @@
-# SQL-Projekt-Transakcje
+# SQL-Projekt-Transakcje (W trakcie rozbudowywania)
 
 Opis
 Przykładowy projekt edukacyjny w SQL – analiza danych transakcyjnych i subskrypcji.  
