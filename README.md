@@ -12,14 +12,7 @@ W projekcie znajdują się 3 tabele:
 
  Przykładowe zapytania
 
- 1. Przychód miesięczny
-```MYsql
-SELECT DATE_FORMAT(date, '%Y-%m') AS month,
-       SUM(amount) AS revenue
-FROM transactions
-WHERE status = 'success'
-GROUP BY month
-ORDER BY month;
+```MYsq
 
 
  -- 1. Przychód miesięczny
